@@ -1,11 +1,12 @@
 {
-  "name": "cmbgdata",
+  "name": "heroku_c5230jlz",
   "connector": "mongodb",
   "url": "",
-  "host": "loscalhost",
-  "port": 0,
-  "user": "",
-  "password": "",
-  "database": "cbmg",
+  "host": "ds359118.mlab.com",
+  "port": 59118,
+  "user": "develop",
+  "account": "heroku_c5230jlz",
+  "password": "04455914416551v01c313*",
+  "database": "heroku_c5230jlz",
   "useNewUrlParser": true
 }
