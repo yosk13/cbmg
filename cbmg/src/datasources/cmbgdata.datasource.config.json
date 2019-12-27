@@ -1,0 +1,11 @@
+{
+  "name": "cmbgdata",
+  "connector": "mongodb",
+  "url": "",
+  "host": "loscalhost",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": "cbmg",
+  "useNewUrlParser": true
+}
